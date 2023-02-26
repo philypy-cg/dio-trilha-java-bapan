@@ -11,7 +11,7 @@ public class operadores {
         else
             resultado = "falso";
         
-       System.out.println(resultado); 
+       System.out.println(resultado);
             
 
         
