@@ -1,5 +1,5 @@
 # dio-trilha-java-bapan
-Repositório para exemplos do curso de Java finalizado com execucaoes no URI, matrizes e variaveis 
+Repositório para exemplos do curso de Java finalizado com execucaoes no URI, matrizes e variaveis, variaveis finalizada e testada com sucesso 
 
 ## Linguagens e Ferramentas utilizadas no Projeto:
 
